@@ -13,4 +13,6 @@
 ### Endpoint URLs for My Website.
 - https://dxe1mptpq4a95.cloudfront.net/
 - http://my-816303285098-bucket.s3-website-us-east-1.amazonaws.com/
-- https://my-816303285098-bucket.s3.amazonaws.com/index.html
+- https://my-816303285098-bucket.s3.amazonaws.com/index.html  
+
+[screenshot](screenshots/screen.png)
